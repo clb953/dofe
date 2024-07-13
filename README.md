@@ -1,3 +1,5 @@
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 .ve-header logo=https://dofe.kent-maps.online/images/dofe-logo.png sticky=true contact=carolyn.oulton@canterbury.ac.uk
 	- [About](/about)
 	- [How to Use Site](/howto)
